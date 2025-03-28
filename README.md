@@ -37,6 +37,7 @@
  | <li> Cria a tabela dCalendario com linguagem M </li>|
  | <li> Relacionar as tabelas entre si </li>|
  | <li> Criar segmentações </li>|
+ | <li> Criar as análises desejadas </li>|
 
  ## 📈 Análises Desejadas
 
