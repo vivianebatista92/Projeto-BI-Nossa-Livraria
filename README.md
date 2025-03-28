@@ -46,7 +46,7 @@
  | <li> Desempenho de Autor e Editora </li>|
  | <li> Análise de Vendas por Filial </li>|
  | <li> Desempenho da Equipe de Vendas </li>|
- | <li> Análise Temporal das Venda\s </li>|
+ | <li> Análise Temporal das Vendas </li>|
 
  ## ❓ Utilização do Projeto
 
