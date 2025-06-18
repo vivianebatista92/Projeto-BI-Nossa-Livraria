@@ -14,6 +14,12 @@
     Demonstração do Projeto
 </p>
 
+---
+
+### - Dashboard publicado: [LINK](https://app.fabric.microsoft.com/view?r=eyJrIjoiN2VmMzhlMWQtMTQ5ZC00NGJkLWE4MDktNDgxZDA1Yzc1YzE2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+---
+
 ## ❗ Objetivos do Projeto
 
 - Automatizar a coleta e análise de dados
